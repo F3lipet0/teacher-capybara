@@ -54,7 +54,7 @@ Durante o desenvolvimento do projeto foram utilizados diversos conceitos estudad
 ### 1. Clone o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone (https://github.com/F3lipet0/teacher-capybara.git)
 ```
 
 ### 2. Entre na pasta do projeto
@@ -80,3 +80,13 @@ python3 jogo_pygame.py
 ## 👨‍💻 Autor
 
 Projeto desenvolvido por **Enzo Felipeto Calil** para a disciplina de Algoritmos e Programação de Computadores (APC).
+
+---
+
+## Créditos
+
+Em homenagem a minha amada, minha força e paixão eterna (fã n.1 de capivaras).
+
+Em homenagem ao meu pai, doutor e pesquisador que me educou com jogos como esse, na minha infância.
+
+Agracimentos ao Professor Alexandre Barbosa, que foi um excelente educador da computação.
