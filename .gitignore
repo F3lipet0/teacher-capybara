@@ -1,0 +1,6 @@
+.DS_Store
+**pycache**/
+*.pyc
+*.code-workspace
+ranking.txt
+jogo_pygame_backup.py
